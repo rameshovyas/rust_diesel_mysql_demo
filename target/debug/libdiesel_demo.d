@@ -1,0 +1,1 @@
+/home/ip/work/R/Rust/git-projects/diesel_demo/diesel_mysql_demo_old/target/debug/libdiesel_demo.rlib: /home/ip/work/R/Rust/git-projects/diesel_demo/diesel_mysql_demo_old/src/lib.rs /home/ip/work/R/Rust/git-projects/diesel_demo/diesel_mysql_demo_old/src/models.rs /home/ip/work/R/Rust/git-projects/diesel_demo/diesel_mysql_demo_old/src/schema.rs
